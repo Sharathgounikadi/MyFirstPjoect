@@ -1,0 +1,180 @@
+*{
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+    
+}
+
+.container{
+    display: flex;
+    justify-self: center;
+    margin: auto;
+    background-image: url(pexels-photo-1813272.jpeg);
+    height: 600px;
+    background-size: cover;
+}
+
+.search{
+    margin-left: auto;
+    width: 500px;
+    height: 35px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 120px;
+}
+
+.login{
+    margin-left: auto;
+    padding: 20px;
+    font-size: 25px;
+    color: white;
+}
+
+.login span{
+    margin-left: 10px;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+
+#bgImg{
+    width: 150px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left:60px ;
+}
+
+.container1{
+    box-shadow: 10px 10px 8px #888888;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+.images{
+    width: 70%;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.allImages{
+    margin: auto;
+    padding: 20px;
+    width: 150px;
+}
+
+.subImg{
+    width: 100px;
+    height: 80px;
+}
+
+.text{
+    text-align: center;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container2{
+    text-align:center ;
+}
+
+.text1 h1{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.text1 h4{
+    margin-bottom: 30px;
+    font-weight: 200;
+}
+
+.subContainers{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: whitesmoke;
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+.test{
+    height: 450px;
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 15px black;
+    margin-right:30px;
+}
+
+#testImage{
+    width:300px;
+    height:250px;
+    border-radius: 10px 10px 0px 0px ;
+}
+.rate{
+    width: 300px;
+    margin-top: 10px;
+}
+
+.span1{
+    margin-left: 2px;
+    margin-right: 10px;
+}
+
+.span2{
+    margin-right: 5px;
+    margin-left: 140px;
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    background-color: brown;
+    border-radius: 5px;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+.test h3{
+    padding: 5px;
+    text-align: center;
+    flex-wrap: wrap;
+    margin-left: 10px;
+}
+
+
+.test .price{
+    padding: 5px;
+    text-align: left;
+    color: blueviolet;
+    font-size: 22px;
+}
+.rate .text2{
+    margin-left: 0px;
+    text-align: left;
+}
+
+.container3{
+    height: 300px;
+    background-color: rgb(201, 212, 212);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#servicesImg{
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    margin-right: 40px;
+}
+
+.test2{
+    margin-right: 30px;
+}
+
+.test2 h3{
+    margin:15px;
+}
+
