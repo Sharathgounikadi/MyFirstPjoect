@@ -97,6 +97,7 @@
     background-color: whitesmoke;
     height: 500px;
     margin-bottom: 50px;
+    
 }
 
 .test{
@@ -187,8 +188,9 @@ button{
     flex-wrap: wrap;
     margin: auto;
 }
-.layout h1{
+.layout-heading{
     margin-bottom: 10px;
+    text-align: center;
 }
 
 .contentHeading{
@@ -198,10 +200,11 @@ button{
     justify-content: center;
     align-items: center;
 }
+
 .content{
     width: 350px;
     height: 250px;
-    background-color: lightcyan;
+    background-color: rgb(173, 247, 247);
     border-radius:15px ;
     margin-top: 30px;
     margin-right: 20px;
@@ -210,6 +213,41 @@ button{
     align-items: center;
     justify-content: center;
     flex-direction: column;
+}
+
+.servicesHeading{
+    text-align: center;
+}
+
+.servicesSubHeading{
+    text-align: center;
+    margin: 10px 10px ;
+}
+
+.CustomerImg{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+.cleaningHeading{
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.clean{
+    margin-top: -50px;
+}
+
+.cleaningHeading1{
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: 200px;
+}
+.electrical{
+    margin-top: 100px;
 }
 
 
